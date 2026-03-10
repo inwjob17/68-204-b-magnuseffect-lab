@@ -16,11 +16,11 @@ public class TorqueRotate : MonoBehaviour
     {
         if (Keyboard.current.dKey.isPressed)
         {
-            rb.AddTorque(Vector3.up * torqueSpeed);
+            rb.AddTorque(Vector2.up * torqueSpeed);
         }
         else
         {
-            rb.angularVelocity = Vector3.zero;
+            rb.angularVelocity = Vector2.zero;
         }
     }
 }

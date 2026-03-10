@@ -605,8 +605,8 @@ Transform:
   m_GameObject: {fileID: 1094028961}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.80525, y: 0.67, z: 9.01}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 11.288, y: 0.72787, z: 9.3648}
+  m_LocalScale: {x: 0.8928348, y: 0.8928348, z: 0.8928348}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 579710719}
@@ -721,7 +721,7 @@ Transform:
   m_GameObject: {fileID: 1327529096}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.89, y: 1.7091501, z: 16.18}
+  m_LocalPosition: {x: 10.84, y: 1.7091501, z: 16.18}
   m_LocalScale: {x: 7.0144405, y: 2.0783, z: 0.67321223}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1003,7 +1003,7 @@ Transform:
   m_GameObject: {fileID: 1673081093}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.197, y: 2.33, z: 7.87}
+  m_LocalPosition: {x: 10.73, y: 2.33, z: 7.84}
   m_LocalScale: {x: 0.7843882, y: 0.7843882, z: 0.7843882}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1021,8 +1021,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9018b602f63806a45b04fac38c358551, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MagnusSoccerKick
-  kickForce: 80
-  spinAmount: 2
+  kickForce: 17
+  spinAmount: 18
   magnusStrength: 0.5
 --- !u!1 &1725005014
 GameObject:
